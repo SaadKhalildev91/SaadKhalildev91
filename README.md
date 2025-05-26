@@ -52,11 +52,35 @@
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Let's Connect
 
-- 📧 **Email**: saadkhalil11991@gmail.com  
-- 💼 **LinkedIn**: [Add your LinkedIn link here]  
-- 🌐 **Portfolio**: [Optional - your portfolio site]
+<table>
+  <tr>
+    <td>💼 <strong>LinkedIn</strong></td>
+    <td>
+      <a href="https://www.linkedin.com/in/muhammad-saad-khalil-5bb81714b/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>✉️ <strong>Email</strong></td>
+    <td>
+      <a href="mailto:saadkhalil11991@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>🟢 <strong>Upwork</strong></td>
+    <td>
+      <a href="https://www.upwork.com/freelancers/saadkhalil" target="_blank">
+        <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" height="28"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
